@@ -1,14 +1,8 @@
-html {
-    background: #efefef;
+@font-face {
+    font-family: "TT Commons";
+    src: url("./TTCommons-DemiBold.woff");
 }
 
-body {
-    margin: 0;
-}
-
-.container {
-    width: 500px;
-    padding: 30px;
-    background: pink;
-    margin: auto;
+h1 {
+    font-family: "TT Commons", serif;
 }
