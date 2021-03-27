@@ -1,1 +1,1 @@
-console.log('sth');
+console.log(React);

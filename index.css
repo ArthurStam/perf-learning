@@ -8,7 +8,7 @@ body {
 
 .container {
     width: 500px;
-    height: 500px;
+    padding: 30px;
     background: pink;
     margin: auto;
 }
