@@ -4,4 +4,3 @@ const App = () => {
 
 ReactDOM.render(React.createElement(App), document.getElementById('root'));
 document.getElementById('preloader').remove();
-console.log(document.body.offsetWidth);

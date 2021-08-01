@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'TT Commons';
+  src: url('./TTCommons-DemiBold.woff') format('woff');
+}
+
 .AppHeader {
   font-family: 'TT Commons', sans-serif;
 }
